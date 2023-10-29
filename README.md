@@ -27,7 +27,8 @@ DIY-Boxx controller using fully 3D printed enclosure. Designed for printing on E
 - The button boxx is modelled to accept 22 x Sanwa OBSF-24 and 1 x Sanwa OBSF-30 buttons and modelled for my own printer tolerances. You may need to change the size of the button holes and thickness of the front panel depending on your desired buttons and your printer tolerances.
 - The interfacing tabs may be too tight or too loose depending on your printer tolerances. I would suggest a small test print to determine if you need to resize them, before committing to a full print.
 - The enclosure should provide sufficient room for electronics but provides no dedicated mounting locations. If you want dedication mounting of your electrical hardware you will have to remix the step files accordingly.
-- The left-handed pinky button location is modelled to accept a Sanwa OBSF-30, if you want to use a different button for this location (an OBSF-24) you will need to resize it. 
+- The left-handed pinky button location is modelled to accept a Sanwa OBSF-30, if you want to use a different button for this location (an OBSF-24) you will need to resize it.
+- Button Spacing and placement. Everyone's hands are different, you may want to adjust button spacing, angle and placement.
 
 # Key-Boxx Info
 TODO
