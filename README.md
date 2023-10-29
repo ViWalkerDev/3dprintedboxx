@@ -38,4 +38,4 @@ TODO
 
 ## Electronics Kits
 Depending on demand in the future I may sell barebones electronics kits so that all you need to do is print the enclosure and source your buttons. 
-Kits would include a sufficient microcontroller and a matrix PCB for ease of wiring up buttons/keys. This is very unlikely, so for now, assume you also need to source your electronics.
+Kits would include a sufficient microcontroller and pre-made wiring. This is very unlikely, so for now, assume you also need to source your electronics.
