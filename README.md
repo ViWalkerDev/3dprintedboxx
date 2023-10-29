@@ -1,5 +1,5 @@
 # 3dprintedboxx
-DIY-Boxx controller using fully 3D printed enclosure. Designed for printing on Ender 3 with minimal supports. An enclosure is provided for a button-boxx and a key-boxx (to be completed).
+DIY-Boxx controller using fully 3D printed enclosure. Designed for printing on Ender 3 with no supports. An enclosure is provided for a button-boxx and a key-boxx (to be completed).
 
 Button-Boxx Info:
 
