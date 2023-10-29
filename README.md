@@ -3,6 +3,9 @@ DIY-Boxx controller using fully 3D printed enclosure. Designed for printing on E
 
 Button-Boxx Info:
 
+![image](https://github.com/ViWalkerDev/3dprintedboxx/assets/112364190/6894efa9-a0f3-4773-bdb2-2bca43cbf3ce)
+
+
 Files Provided:
 - Filleted STEP file ready for printing.
 - Unfilleted STEP file for easier remixing.
